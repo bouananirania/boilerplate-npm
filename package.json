@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": " bouanani rania",
+	"author": "bouanani rania",
 	"dependencies": {
 		"express": "^4.19.2"
 	},
